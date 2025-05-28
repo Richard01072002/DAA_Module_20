@@ -13,8 +13,8 @@ To solve the Graph Coloring Problem using backtracking, assigning colors to the 
 ```
 /*
 Program to implement Graph Coloring Problem using backtracking.
-Developed by: ARINI A
-Register Number: 212222040011
+Developed by: RICHARDSON A
+Register Number: 212222233005
 */
 ```
 ```
